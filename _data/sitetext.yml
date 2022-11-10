@@ -147,7 +147,7 @@ team:
 
     - name: "Gustavo Fernando Burchardt Filho"
       role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2022"
-      image: assets\img\team\GustavoBurchard.png
+      image: assets\img\team\GustavoB.jpg
       social:
         - url: https://github.com/guburchardt
           icon: fab fa-github
