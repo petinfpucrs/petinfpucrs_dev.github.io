@@ -145,32 +145,50 @@ team:
         - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
           icon: fab fa-linkedin-in
 
+<<<<<<< HEAD
     - name: "Gustavo Burchardt"
       role: "<b>Engenharia de Software
 </b> <br> Ingresso: 09/2022"
       image: assets\img\team\gustavo.png
+=======
+    - name: "Gustavo Fernando Burchardt Filho"
+      role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\GustavoB.jpg
+>>>>>>> 0469823672241efd23ffb09fef99ea6241cb4c8f
       social:
-        - url: https://github.com/154guerra
+        - url: https://github.com/guburchardt
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+        - url: https://www.linkedin.com/in/gustavo-fernando-burchardt-833929124/
           icon: fab fa-linkedin-in
 
+<<<<<<< HEAD
     - name: "Marcelo Martins"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\marceloaugusto.png
+=======
+    - name: "Marcelo Augusto Felisberto Martins"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\MarceloAugusto.png
+>>>>>>> 0469823672241efd23ffb09fef99ea6241cb4c8f
       social:
-        - url: https://github.com/154guerra
+        - url: https://github.com/MFelisberto
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+        - url: https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/
           icon: fab fa-linkedin-in
 
+<<<<<<< HEAD
     - name: "Andriele Lange"
       role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
       image: assets\img\team\andriele.png
+=======
+    - name: "Andriele Barcé Lange"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\AndrieleBarce.jpg
+>>>>>>> 0469823672241efd23ffb09fef99ea6241cb4c8f
       social:
-        - url: https://github.com/154guerra
+        - url: https://github.com/AndrieleLange
           icon: fab fa-github
-        - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
+        - url: https://www.linkedin.com/in/andriele-barc%C3%A9-lange-83923715a
           icon: fab fa-linkedin-in
 
     - name: "P2"
