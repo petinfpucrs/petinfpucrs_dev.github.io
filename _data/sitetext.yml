@@ -145,27 +145,28 @@ team:
         - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
           icon: fab fa-linkedin-in
 
-    - name: "P1"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-      image: assets\img\team\TiagoF.png
+    - name: "Gustavo Burchardt"
+      role: "<b>Engenharia de Software
+</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\gustavo.png
       social:
         - url: https://github.com/154guerra
           icon: fab fa-github
         - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
           icon: fab fa-linkedin-in
 
-    - name: "P2"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-      image: assets\img\team\TiagoF.png
+    - name: "Marcelo Martins"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\marceloaugusto.png
       social:
         - url: https://github.com/154guerra
           icon: fab fa-github
         - url: https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/
           icon: fab fa-linkedin-in
 
-    - name: "P2"
-      role: "<b>Sistemas de Informação</b> <br> Ingresso: 03/2022"
-      image: assets\img\team\TiagoF.png
+    - name: "Andriele Lange"
+      role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2022"
+      image: assets\img\team\andriele.png
       social:
         - url: https://github.com/154guerra
           icon: fab fa-github

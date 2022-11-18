@@ -78,3 +78,8 @@ a[data-fancybox] img {
 .is-nav-selected .fancybox__thumb::after {
   display: none;
 }
+
+.fancybox__caption {
+  text-align: center;
+  font-size: 20px;
+}
